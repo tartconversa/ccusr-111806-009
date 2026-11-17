@@ -1,0 +1,25 @@
+{
+  "title": "收盘行情源断页后的补领与入库",
+  "category": "收盘供应资料",
+  "choice": "供应批次",
+  "revision": "游标版本",
+  "detail_label": "收盘汇总页",
+  "entity": "交易日来源批次",
+  "fact": "缺页范围",
+  "items": [
+    {
+      "id": "close-feed-a",
+      "name": "指数汇总页",
+      "group": "甲",
+      "detail": "收盘汇总页甲",
+      "changed_detail": "收盘汇总页修订甲"
+    },
+    {
+      "id": "close-feed-b",
+      "name": "ETF 汇总页",
+      "group": "乙",
+      "detail": "收盘汇总页乙",
+      "changed_detail": "收盘汇总页修订乙"
+    }
+  ]
+}
