@@ -12,14 +12,26 @@
       "name": "指数汇总页",
       "group": "甲",
       "detail": "收盘汇总页甲",
-      "changed_detail": "收盘汇总页修订甲"
+      "changed_detail": "收盘汇总页修订甲",
+      "trade_date": "2026-11-17",
+      "feed_batch": "feed-1",
+      "page_range": [
+        "1-2",
+        "3-4"
+      ]
     },
     {
       "id": "close-feed-b",
       "name": "ETF 汇总页",
       "group": "乙",
       "detail": "收盘汇总页乙",
-      "changed_detail": "收盘汇总页修订乙"
+      "changed_detail": "收盘汇总页修订乙",
+      "trade_date": "2026-11-17",
+      "feed_batch": "feed-1",
+      "page_range": [
+        "1-2",
+        "3-4"
+      ]
     }
   ]
 }
